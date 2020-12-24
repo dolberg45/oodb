@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="669e7715-c45d-4ec6-a9df-7bba0aa895c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hJWoj7kY0RuXiUq3LnSf4Op08H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="669e7715-c45d-4ec6-a9df-7bba0aa895c0" name="Default Changelist" comment="" />
+      <created>1599729851779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599729851779</updated>
+      <workItem from="1599729854462" duration="2749000" />
+      <workItem from="1599900610854" duration="835000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="327" y="95" key="#Project_Structure" timestamp="1599901378010">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state x="327" y="95" key="#Project_Structure/0.23.1680.981@0.23.1680.981" timestamp="1599901378010" />
+    <state x="653" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1599901372468">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state x="653" y="236" key="#com.intellij.ide.util.MemberChooser/0.23.1680.981@0.23.1680.981" timestamp="1599901372468" />
+    <state x="615" y="385" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599731668702">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state x="615" y="385" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1680.981@0.23.1680.981" timestamp="1599731668702" />
+  </component>
+</project>

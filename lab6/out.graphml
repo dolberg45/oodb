@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"  
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns 
+	http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+	<graph id="G" edgedefault="undirected">
+		<node id="model.Dealer"/>
+		<node id="model.Car"/>
+		<node id="model.Purchase"/>
+		<node id="model.Agent"/>
+		<node id="model.Client"/>
+		<edge id="model.Carmodel.Dealer" directed="true" source="model.Car" target="model.Dealer"/>
+		<edge id="model.Carmodel.Purchase" directed="true" source="model.Car" target="model.Purchase"/>
+		<edge id="model.Purchasemodel.Car" directed="true" source="model.Purchase" target="model.Car"/>
+		<edge id="model.Purchasemodel.Client" directed="true" source="model.Purchase" target="model.Client"/>
+		<edge id="model.Agentmodel.Client" directed="true" source="model.Agent" target="model.Client"/>
+		<edge id="model.Agentmodel.Dealer" directed="true" source="model.Agent" target="model.Dealer"/>
+		<edge id="model.Clientmodel.Agent" directed="true" source="model.Client" target="model.Agent"/>
+	</graph>
+</graphml>
