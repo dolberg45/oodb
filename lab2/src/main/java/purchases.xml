@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Purchase purchaseId="1">
+    <purchaseDate>2020-10-01T00:05:42.286+03:00</purchaseDate>
+    <car>
+        <model>Tesla Model S</model>
+        <price>100000</price>
+    </car>
+    <client>
+        <age>20</age>
+        <email>dolberg@gmail.com</email>
+        <name>Grigoriy</name>
+        <phoneNumber>89225150121</phoneNumber>
+        <surname>Alekseev</surname>
+        <balance>1000000</balance>
+    </client>
+</Purchase>
